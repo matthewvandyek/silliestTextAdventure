@@ -5,7 +5,7 @@ By no means complete, it's a university project that I thought I might continue 
 ### Instructions
 
 1. Download files in a folder, `cd` to it
-2. If you don't have `make`, install it
+2. If you don't have `gcc` and `make`, install them
 3. `make clean && make all`
 4. Open two terminals in this folder and put them side by side
 5. In the first hit `./server`, in the second `./client`
