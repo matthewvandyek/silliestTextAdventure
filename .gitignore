@@ -1,0 +1,9 @@
+docs
+src/*.o
+*.o
+server
+client
+exec2024.sh
+*.txt
+.vscode
+vgcore.*
